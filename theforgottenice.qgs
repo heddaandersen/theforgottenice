@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" saveDateTime="2022-06-10T00:32:49" version="3.20.1-Odense" saveUser="Hedda" saveUserFull="Hedda">
+<qgis projectname="" saveUser="Hedda" version="3.20.1-Odense" saveUserFull="Hedda" saveDateTime="2022-06-13T20:10:10">
   <homePath path=""/>
   <title></title>
   <autotransaction active="0"/>
@@ -22,32 +22,32 @@
     <customproperties>
       <Option/>
     </customproperties>
-    <layer-tree-layer id="forefield_crevasses_a7876553_838c_4ba4_a5b8_37b78e878828" source="./Shapes/forefield_crevasses.geojsonl|layername=forefield_crevasses" providerKey="ogr" patch_size="-1,-1" legend_split_behavior="0" name="forefield_crevasses" expanded="1" checked="Qt::Checked" legend_exp="">
+    <layer-tree-layer source="./Shapes/forefield_crevasses.geojsonl|layername=forefield_crevasses" providerKey="ogr" expanded="1" checked="Qt::Checked" id="forefield_crevasses_a7876553_838c_4ba4_a5b8_37b78e878828" name="forefield_crevasses" legend_split_behavior="0" patch_size="-1,-1" legend_exp="">
       <customproperties>
         <Option/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer id="Potential_forefields_5c654840_a0bb_4efa_95ba_dac4b009ee57" source="./Shapes/Potential_forefields.geojsonl" providerKey="ogr" patch_size="-1,-1" legend_split_behavior="0" name="Potential forefields" expanded="1" checked="Qt::Checked" legend_exp="">
+    <layer-tree-layer source="./Shapes/Potential_forefields.geojsonl" providerKey="ogr" expanded="1" checked="Qt::Checked" id="Potential_forefields_5c654840_a0bb_4efa_95ba_dac4b009ee57" name="Potential forefields" legend_split_behavior="0" patch_size="-1,-1" legend_exp="">
       <customproperties>
         <Option/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer id="Dynamic_forefields_26b1527e_d622_4991_9071_e9e02f0dc107" source="./Shapes/dynamic_forefields.geojsonl" providerKey="ogr" patch_size="-1,-1" legend_split_behavior="0" name="Dynamic_forefields" expanded="1" checked="Qt::Checked" legend_exp="">
+    <layer-tree-layer source="./Shapes/dynamic_forefields.geojsonl" providerKey="ogr" expanded="1" checked="Qt::Checked" id="Dynamic_forefields_26b1527e_d622_4991_9071_e9e02f0dc107" name="Dynamic_forefields" legend_split_behavior="0" patch_size="-1,-1" legend_exp="">
       <customproperties>
         <Option/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer id="Basisdata_NP_Ortofoto_Svalbard_WMTS_25833_53872423_62a2_47fa_bbea_d975bdd19518" source="crs=EPSG:25833&amp;dpiMode=7&amp;format=image/jpgpng&amp;layers=Basisdata_NP_Ortofoto_Svalbard_WMTS_25833&amp;styles=default&amp;tileMatrixSet=default028mm&amp;url=https://geodata.npolar.no/arcgis/rest/services/Basisdata/NP_Ortofoto_Svalbard_WMTS_25833/MapServer/WMTS/1.0.0/WMTSCapabilities.xml" providerKey="wms" patch_size="-1,-1" legend_split_behavior="0" name="Basisdata_NP_Ortofoto_Svalbard_WMTS_25833" expanded="1" checked="Qt::Checked" legend_exp="">
+    <layer-tree-layer source="crs=EPSG:25833&amp;dpiMode=7&amp;format=image/jpgpng&amp;layers=Basisdata_NP_Ortofoto_Svalbard_WMTS_25833&amp;styles=default&amp;tileMatrixSet=default028mm&amp;url=https://geodata.npolar.no/arcgis/rest/services/Basisdata/NP_Ortofoto_Svalbard_WMTS_25833/MapServer/WMTS/1.0.0/WMTSCapabilities.xml" providerKey="wms" expanded="1" checked="Qt::Checked" id="Basisdata_NP_Ortofoto_Svalbard_WMTS_25833_53872423_62a2_47fa_bbea_d975bdd19518" name="Basisdata_NP_Ortofoto_Svalbard_WMTS_25833" legend_split_behavior="0" patch_size="-1,-1" legend_exp="">
       <customproperties>
         <Option/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer id="Basisdata_NP_Satellitt_Svalbard_WMTS_25833_64c53cb2_926b_4a0b_a9bc_ea0b54d1cbbb" source="crs=EPSG:25833&amp;dpiMode=7&amp;format=image/jpgpng&amp;layers=Basisdata_NP_Satellitt_Svalbard_WMTS_25833&amp;styles=default&amp;tileMatrixSet=default028mm&amp;url=https://geodata.npolar.no/arcgis/rest/services/Basisdata/NP_Satellitt_Svalbard_WMTS_25833/MapServer/WMTS/1.0.0/WMTSCapabilities.xml" providerKey="wms" patch_size="-1,-1" legend_split_behavior="0" name="Basisdata_NP_Satellitt_Svalbard_WMTS_25833" expanded="1" checked="Qt::Checked" legend_exp="">
+    <layer-tree-layer source="crs=EPSG:25833&amp;dpiMode=7&amp;format=image/jpgpng&amp;layers=Basisdata_NP_Satellitt_Svalbard_WMTS_25833&amp;styles=default&amp;tileMatrixSet=default028mm&amp;url=https://geodata.npolar.no/arcgis/rest/services/Basisdata/NP_Satellitt_Svalbard_WMTS_25833/MapServer/WMTS/1.0.0/WMTSCapabilities.xml" providerKey="wms" expanded="1" checked="Qt::Checked" id="Basisdata_NP_Satellitt_Svalbard_WMTS_25833_64c53cb2_926b_4a0b_a9bc_ea0b54d1cbbb" name="Basisdata_NP_Satellitt_Svalbard_WMTS_25833" legend_split_behavior="0" patch_size="-1,-1" legend_exp="">
       <customproperties>
         <Option/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer id="Basisdata_NP_Basiskart_Svalbard_WMTS_32633_6c7fdb96_c051_4ce1_a131_02f896b4d6b1" source="crs=EPSG:32633&amp;dpiMode=7&amp;format=image/jpgpng&amp;layers=Basisdata_NP_Basiskart_Svalbard_WMTS_32633&amp;styles=default&amp;tileMatrixSet=default028mm&amp;url=https://geodata.npolar.no/arcgis/rest/services/Basisdata/NP_Basiskart_Svalbard_WMTS_32633/MapServer/WMTS/1.0.0/WMTSCapabilities.xml" providerKey="wms" patch_size="-1,-1" legend_split_behavior="0" name="Basisdata_NP_Basiskart_Svalbard_WMTS_32633" expanded="1" checked="Qt::Checked" legend_exp="">
+    <layer-tree-layer source="crs=EPSG:32633&amp;dpiMode=7&amp;format=image/jpgpng&amp;layers=Basisdata_NP_Basiskart_Svalbard_WMTS_32633&amp;styles=default&amp;tileMatrixSet=default028mm&amp;url=https://geodata.npolar.no/arcgis/rest/services/Basisdata/NP_Basiskart_Svalbard_WMTS_32633/MapServer/WMTS/1.0.0/WMTSCapabilities.xml" providerKey="wms" expanded="1" checked="Qt::Checked" id="Basisdata_NP_Basiskart_Svalbard_WMTS_32633_6c7fdb96_c051_4ce1_a131_02f896b4d6b1" name="Basisdata_NP_Basiskart_Svalbard_WMTS_32633" legend_split_behavior="0" patch_size="-1,-1" legend_exp="">
       <customproperties>
         <Option/>
       </customproperties>
@@ -61,11 +61,11 @@
       <item>Potential_forefields_5c654840_a0bb_4efa_95ba_dac4b009ee57</item>
     </custom-order>
   </layer-tree-group>
-  <snapping-settings enabled="0" maxScale="0" unit="1" intersection-snapping="0" scaleDependencyMode="0" minScale="0" mode="2" type="1" tolerance="12" self-snapping="0">
+  <snapping-settings mode="2" tolerance="12" scaleDependencyMode="0" maxScale="0" enabled="0" type="1" self-snapping="0" minScale="0" unit="1" intersection-snapping="0">
     <individual-layer-settings>
-      <layer-setting id="forefield_crevasses_a7876553_838c_4ba4_a5b8_37b78e878828" enabled="0" maxScale="0" units="1" minScale="0" type="1" tolerance="12"/>
-      <layer-setting id="Dynamic_forefields_26b1527e_d622_4991_9071_e9e02f0dc107" enabled="0" maxScale="0" units="1" minScale="0" type="1" tolerance="12"/>
-      <layer-setting id="Potential_forefields_5c654840_a0bb_4efa_95ba_dac4b009ee57" enabled="0" maxScale="0" units="1" minScale="0" type="1" tolerance="12"/>
+      <layer-setting id="Potential_forefields_5c654840_a0bb_4efa_95ba_dac4b009ee57" units="1" tolerance="12" maxScale="0" enabled="0" type="1" minScale="0"/>
+      <layer-setting id="Dynamic_forefields_26b1527e_d622_4991_9071_e9e02f0dc107" units="1" tolerance="12" maxScale="0" enabled="0" type="1" minScale="0"/>
+      <layer-setting id="forefield_crevasses_a7876553_838c_4ba4_a5b8_37b78e878828" units="1" tolerance="12" maxScale="0" enabled="0" type="1" minScale="0"/>
     </individual-layer-settings>
   </snapping-settings>
   <relations/>
@@ -73,10 +73,10 @@
   <mapcanvas name="theMapCanvas" annotationsVisible="1">
     <units>meters</units>
     <extent>
-      <xmin>484132.05077822128077969</xmin>
-      <ymin>8561938.33105978555977345</ymin>
-      <xmax>534890.91172714158892632</xmax>
-      <ymax>8641810.01722082681953907</ymax>
+      <xmin>564594.51351198612246662</xmin>
+      <ymin>8660553.51227535866200924</ymin>
+      <xmax>583629.08636781631503254</xmax>
+      <ymax>8690505.39458622597157955</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -97,32 +97,32 @@
   </mapcanvas>
   <projectModels/>
   <legend updateDrawingOrder="true">
-    <legendlayer name="forefield_crevasses" checked="Qt::Checked" showFeatureCount="0" drawingOrder="-1" open="true">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="forefield_crevasses" showFeatureCount="0">
       <filegroup hidden="false" open="true">
         <legendlayerfile isInOverview="0" layerid="forefield_crevasses_a7876553_838c_4ba4_a5b8_37b78e878828" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer name="Potential forefields" checked="Qt::Checked" showFeatureCount="0" drawingOrder="-1" open="true">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Potential forefields" showFeatureCount="0">
       <filegroup hidden="false" open="true">
         <legendlayerfile isInOverview="0" layerid="Potential_forefields_5c654840_a0bb_4efa_95ba_dac4b009ee57" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer name="Dynamic_forefields" checked="Qt::Checked" showFeatureCount="0" drawingOrder="-1" open="true">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Dynamic_forefields" showFeatureCount="0">
       <filegroup hidden="false" open="true">
         <legendlayerfile isInOverview="0" layerid="Dynamic_forefields_26b1527e_d622_4991_9071_e9e02f0dc107" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer name="Basisdata_NP_Ortofoto_Svalbard_WMTS_25833" checked="Qt::Checked" showFeatureCount="0" drawingOrder="-1" open="true">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Basisdata_NP_Ortofoto_Svalbard_WMTS_25833" showFeatureCount="0">
       <filegroup hidden="false" open="true">
         <legendlayerfile isInOverview="0" layerid="Basisdata_NP_Ortofoto_Svalbard_WMTS_25833_53872423_62a2_47fa_bbea_d975bdd19518" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer name="Basisdata_NP_Satellitt_Svalbard_WMTS_25833" checked="Qt::Checked" showFeatureCount="0" drawingOrder="-1" open="true">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Basisdata_NP_Satellitt_Svalbard_WMTS_25833" showFeatureCount="0">
       <filegroup hidden="false" open="true">
         <legendlayerfile isInOverview="0" layerid="Basisdata_NP_Satellitt_Svalbard_WMTS_25833_64c53cb2_926b_4a0b_a9bc_ea0b54d1cbbb" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer name="Basisdata_NP_Basiskart_Svalbard_WMTS_32633" checked="Qt::Checked" showFeatureCount="0" drawingOrder="-1" open="true">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Basisdata_NP_Basiskart_Svalbard_WMTS_32633" showFeatureCount="0">
       <filegroup hidden="false" open="true">
         <legendlayerfile isInOverview="0" layerid="Basisdata_NP_Basiskart_Svalbard_WMTS_32633_6c7fdb96_c051_4ce1_a131_02f896b4d6b1" visible="1"/>
       </filegroup>
@@ -130,7 +130,7 @@
   </legend>
   <mapViewDocks/>
   <mapViewDocks3D/>
-  <main-annotation-layer refreshOnNotifyMessage="" autoRefreshTime="0" autoRefreshEnabled="0" type="annotation" refreshOnNotifyEnabled="0">
+  <main-annotation-layer autoRefreshEnabled="0" autoRefreshTime="0" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" type="annotation">
     <id>Annotations_9b6c0e7c_e425_4100_8863_9bb72ed7ef66</id>
     <datasource></datasource>
     <keywordList>
@@ -180,7 +180,7 @@
     <blendMode>0</blendMode>
   </main-annotation-layer>
   <projectlayers>
-    <maplayer styleCategories="AllStyleCategories" refreshOnNotifyMessage="" maxScale="0" autoRefreshTime="0" autoRefreshEnabled="0" minScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0" refreshOnNotifyEnabled="0">
+    <maplayer autoRefreshEnabled="0" autoRefreshTime="0" styleCategories="AllStyleCategories" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0" minScale="1e+08">
       <extent>
         <xmin>369976.38995100185275078</xmin>
         <ymin>8221306.54000000469386578</ymin>
@@ -239,7 +239,7 @@
       </resourceMetadata>
       <provider>wms</provider>
       <noData>
-        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList bandNo="1" useSrcNoData="0"/>
       </noData>
       <map-layer-style-manager current="default">
         <map-layer-style name="default"/>
@@ -250,7 +250,7 @@
         <Searchable>1</Searchable>
         <Private>0</Private>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal fetchMode="0" mode="0" enabled="0">
         <fixedRange>
           <start></start>
           <end></end>
@@ -263,9 +263,9 @@
       </customproperties>
       <pipe>
         <provider>
-          <resampling enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+          <resampling zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2" zoomedInResamplingMethod="nearestNeighbour" enabled="false"/>
         </provider>
-        <rasterrenderer opacity="1" nodataColor="" band="1" type="singlebandcolordata" alphaBand="-1">
+        <rasterrenderer nodataColor="" band="1" alphaBand="-1" opacity="1" type="singlebandcolordata">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -277,13 +277,13 @@
           </minMaxOrigin>
         </rasterrenderer>
         <brightnesscontrast brightness="0" contrast="0" gamma="1"/>
-        <huesaturation colorizeRed="255" colorizeStrength="100" colorizeGreen="128" colorizeOn="0" grayscaleMode="0" colorizeBlue="128" saturation="0"/>
+        <huesaturation colorizeStrength="100" colorizeGreen="128" colorizeBlue="128" saturation="0" grayscaleMode="0" colorizeOn="0" colorizeRed="255"/>
         <rasterresampler maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" refreshOnNotifyMessage="" maxScale="0" autoRefreshTime="0" autoRefreshEnabled="0" minScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0" refreshOnNotifyEnabled="0">
+    <maplayer autoRefreshEnabled="0" autoRefreshTime="0" styleCategories="AllStyleCategories" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0" minScale="1e+08">
       <extent>
         <xmin>397600.0001220703125</xmin>
         <ymin>8252400</ymin>
@@ -342,7 +342,7 @@
       </resourceMetadata>
       <provider>wms</provider>
       <noData>
-        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList bandNo="1" useSrcNoData="0"/>
       </noData>
       <map-layer-style-manager current="default">
         <map-layer-style name="default"/>
@@ -353,7 +353,7 @@
         <Searchable>1</Searchable>
         <Private>0</Private>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal fetchMode="0" mode="0" enabled="0">
         <fixedRange>
           <start></start>
           <end></end>
@@ -366,9 +366,9 @@
       </customproperties>
       <pipe>
         <provider>
-          <resampling enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+          <resampling zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2" zoomedInResamplingMethod="nearestNeighbour" enabled="false"/>
         </provider>
-        <rasterrenderer opacity="1" nodataColor="" band="1" type="singlebandcolordata" alphaBand="-1">
+        <rasterrenderer nodataColor="" band="1" alphaBand="-1" opacity="1" type="singlebandcolordata">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -380,13 +380,13 @@
           </minMaxOrigin>
         </rasterrenderer>
         <brightnesscontrast brightness="0" contrast="0" gamma="1"/>
-        <huesaturation colorizeRed="255" colorizeStrength="100" colorizeGreen="128" colorizeOn="0" grayscaleMode="0" colorizeBlue="128" saturation="0"/>
+        <huesaturation colorizeStrength="100" colorizeGreen="128" colorizeBlue="128" saturation="0" grayscaleMode="0" colorizeOn="0" colorizeRed="255"/>
         <rasterresampler maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer styleCategories="AllStyleCategories" refreshOnNotifyMessage="" maxScale="0" autoRefreshTime="0" autoRefreshEnabled="0" minScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0" refreshOnNotifyEnabled="0">
+    <maplayer autoRefreshEnabled="0" autoRefreshTime="0" styleCategories="AllStyleCategories" refreshOnNotifyMessage="" refreshOnNotifyEnabled="0" maxScale="0" type="raster" hasScaleBasedVisibilityFlag="0" minScale="1e+08">
       <extent>
         <xmin>369980</xmin>
         <ymin>8221310</ymin>
@@ -445,7 +445,7 @@
       </resourceMetadata>
       <provider>wms</provider>
       <noData>
-        <noDataList useSrcNoData="0" bandNo="1"/>
+        <noDataList bandNo="1" useSrcNoData="0"/>
       </noData>
       <map-layer-style-manager current="default">
         <map-layer-style name="default"/>
@@ -456,7 +456,7 @@
         <Searchable>1</Searchable>
         <Private>0</Private>
       </flags>
-      <temporal enabled="0" mode="0" fetchMode="0">
+      <temporal fetchMode="0" mode="0" enabled="0">
         <fixedRange>
           <start></start>
           <end></end>
@@ -469,9 +469,9 @@
       </customproperties>
       <pipe>
         <provider>
-          <resampling enabled="false" zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour" maxOversampling="2"/>
+          <resampling zoomedOutResamplingMethod="nearestNeighbour" maxOversampling="2" zoomedInResamplingMethod="nearestNeighbour" enabled="false"/>
         </provider>
-        <rasterrenderer opacity="1" nodataColor="" band="1" type="singlebandcolordata" alphaBand="-1">
+        <rasterrenderer nodataColor="" band="1" alphaBand="-1" opacity="1" type="singlebandcolordata">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -483,21 +483,21 @@
           </minMaxOrigin>
         </rasterrenderer>
         <brightnesscontrast brightness="0" contrast="0" gamma="1"/>
-        <huesaturation colorizeRed="255" colorizeStrength="100" colorizeGreen="128" colorizeOn="0" grayscaleMode="0" colorizeBlue="128" saturation="0"/>
+        <huesaturation colorizeStrength="100" colorizeGreen="128" colorizeBlue="128" saturation="0" grayscaleMode="0" colorizeOn="0" colorizeRed="255"/>
         <rasterresampler maxOversampling="2"/>
         <resamplingStage>resamplingFilter</resamplingStage>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer autoRefreshTime="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" geometry="Polygon" styleCategories="AllStyleCategories" simplifyAlgorithm="0" labelsEnabled="0" readOnly="0" refreshOnNotifyEnabled="0" simplifyDrawingHints="1" maxScale="0" simplifyLocal="1" simplifyDrawingTol="1" autoRefreshEnabled="0" simplifyMaxScale="1" minScale="100000000" type="vector" wkbType="Polygon">
+    <maplayer type="vector" simplifyMaxScale="1" styleCategories="AllStyleCategories" simplifyDrawingTol="1" simplifyAlgorithm="0" minScale="100000000" refreshOnNotifyEnabled="0" wkbType="Polygon" maxScale="0" simplifyLocal="1" readOnly="0" autoRefreshEnabled="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" autoRefreshTime="0" geometry="Polygon" simplifyDrawingHints="1" labelsEnabled="0">
       <extent>
-        <xmin>14.83998539450862708</xmin>
+        <xmin>14.21645480091983593</xmin>
         <ymin>77.0546172369718505</ymin>
         <xmax>16.1959461250965191</xmax>
         <ymax>78.81849964528967689</ymax>
       </extent>
       <wgs84extent>
-        <xmin>14.83998539450862708</xmin>
+        <xmin>14.21645480091983593</xmin>
         <ymin>77.0546172369718505</ymin>
         <xmax>16.1959461250965191</xmax>
         <ymax>78.81849964528967689</ymax>
@@ -561,7 +561,7 @@
         <Searchable>1</Searchable>
         <Private>0</Private>
       </flags>
-      <temporal endField="" fixedDuration="0" startField="" durationField="" startExpression="" enabled="0" durationUnit="min" accumulate="0" mode="0" endExpression="">
+      <temporal startField="" accumulate="0" mode="0" durationField="" fixedDuration="0" endField="" enabled="0" startExpression="" endExpression="" durationUnit="min">
         <fixedRange>
           <start></start>
           <end></end>
@@ -569,7 +569,7 @@
       </temporal>
       <renderer-v2 symbollevels="0" forceraster="0" enableorderby="0" type="singleSymbol">
         <symbols>
-          <symbol clip_to_extent="1" name="0" force_rhr="0" type="fill" alpha="1">
+          <symbol clip_to_extent="1" name="0" type="fill" alpha="1" force_rhr="0">
             <data_defined_properties>
               <Option type="Map">
                 <Option value="" name="name" type="QString"/>
@@ -577,7 +577,7 @@
                 <Option value="collection" name="type" type="QString"/>
               </Option>
             </data_defined_properties>
-            <layer pass="0" enabled="1" locked="0" class="SimpleFill">
+            <layer pass="0" locked="0" enabled="1" class="SimpleFill">
               <Option type="Map">
                 <Option value="3x:0,0,0,0,0,0" name="border_width_map_unit_scale" type="QString"/>
                 <Option value="133,182,111,255" name="color" type="QString"/>
@@ -639,22 +639,22 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="Name" index="0"/>
+        <alias name="" index="0" field="Name"/>
       </aliases>
       <defaults>
-        <default expression="" applyOnUpdate="0" field="Name"/>
+        <default applyOnUpdate="0" expression="" field="Name"/>
       </defaults>
       <constraints>
-        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="Name"/>
+        <constraint notnull_strength="0" exp_strength="0" unique_strength="0" field="Name" constraints="0"/>
       </constraints>
       <constraintExpressions>
-        <constraint desc="" exp="" field="Name"/>
+        <constraint exp="" desc="" field="Name"/>
       </constraintExpressions>
       <expressionfields/>
       <attributeactions>
-        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+        <defaultAction value="{00000000-0000-0000-0000-000000000000}" key="Canvas"/>
       </attributeactions>
-      <attributetableconfig actionWidgetStyle="dropDown" sortOrder="0" sortExpression="">
+      <attributetableconfig sortExpression="" actionWidgetStyle="dropDown" sortOrder="0">
         <columns/>
       </attributetableconfig>
       <conditionalstyles>
@@ -677,18 +677,18 @@
       <previewExpression></previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer autoRefreshTime="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" geometry="Polygon" styleCategories="AllStyleCategories" simplifyAlgorithm="0" labelsEnabled="0" readOnly="0" refreshOnNotifyEnabled="0" simplifyDrawingHints="1" maxScale="0" simplifyLocal="1" simplifyDrawingTol="1" autoRefreshEnabled="0" simplifyMaxScale="1" minScale="100000000" type="vector" wkbType="Polygon">
+    <maplayer type="vector" simplifyMaxScale="1" styleCategories="AllStyleCategories" simplifyDrawingTol="1" simplifyAlgorithm="0" minScale="100000000" refreshOnNotifyEnabled="0" wkbType="Polygon" maxScale="0" simplifyLocal="1" readOnly="0" autoRefreshEnabled="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" autoRefreshTime="0" geometry="Polygon" simplifyDrawingHints="1" labelsEnabled="0">
       <extent>
         <xmin>14.34886550000000049</xmin>
         <ymin>77.33511810000000253</ymin>
-        <xmax>14.36808109999999949</xmax>
-        <ymax>77.34503399999999829</ymax>
+        <xmax>15.50432852877273859</xmax>
+        <ymax>78.20200015388905967</ymax>
       </extent>
       <wgs84extent>
         <xmin>14.34886550000000049</xmin>
         <ymin>77.33511810000000253</ymin>
-        <xmax>14.36808109999999949</xmax>
-        <ymax>77.34503399999999829</ymax>
+        <xmax>15.50432852877273859</xmax>
+        <ymax>78.20200015388905967</ymax>
       </wgs84extent>
       <id>Potential_forefields_5c654840_a0bb_4efa_95ba_dac4b009ee57</id>
       <datasource>./Shapes/Potential_forefields.geojsonl</datasource>
@@ -749,7 +749,7 @@
         <Searchable>1</Searchable>
         <Private>0</Private>
       </flags>
-      <temporal endField="" fixedDuration="0" startField="" durationField="" startExpression="" enabled="0" durationUnit="min" accumulate="0" mode="0" endExpression="">
+      <temporal startField="" accumulate="0" mode="0" durationField="" fixedDuration="0" endField="" enabled="0" startExpression="" endExpression="" durationUnit="min">
         <fixedRange>
           <start></start>
           <end></end>
@@ -757,7 +757,7 @@
       </temporal>
       <renderer-v2 symbollevels="0" forceraster="0" enableorderby="0" type="singleSymbol">
         <symbols>
-          <symbol clip_to_extent="1" name="0" force_rhr="0" type="fill" alpha="1">
+          <symbol clip_to_extent="1" name="0" type="fill" alpha="1" force_rhr="0">
             <data_defined_properties>
               <Option type="Map">
                 <Option value="" name="name" type="QString"/>
@@ -765,7 +765,7 @@
                 <Option value="collection" name="type" type="QString"/>
               </Option>
             </data_defined_properties>
-            <layer pass="0" enabled="1" locked="0" class="SimpleFill">
+            <layer pass="0" locked="0" enabled="1" class="SimpleFill">
               <Option type="Map">
                 <Option value="3x:0,0,0,0,0,0" name="border_width_map_unit_scale" type="QString"/>
                 <Option value="231,113,72,255" name="color" type="QString"/>
@@ -827,22 +827,22 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="Name" index="0"/>
+        <alias name="" index="0" field="Name"/>
       </aliases>
       <defaults>
-        <default expression="" applyOnUpdate="0" field="Name"/>
+        <default applyOnUpdate="0" expression="" field="Name"/>
       </defaults>
       <constraints>
-        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="Name"/>
+        <constraint notnull_strength="0" exp_strength="0" unique_strength="0" field="Name" constraints="0"/>
       </constraints>
       <constraintExpressions>
-        <constraint desc="" exp="" field="Name"/>
+        <constraint exp="" desc="" field="Name"/>
       </constraintExpressions>
       <expressionfields/>
       <attributeactions>
-        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+        <defaultAction value="{00000000-0000-0000-0000-000000000000}" key="Canvas"/>
       </attributeactions>
-      <attributetableconfig actionWidgetStyle="dropDown" sortOrder="0" sortExpression="">
+      <attributetableconfig sortExpression="" actionWidgetStyle="dropDown" sortOrder="0">
         <columns/>
       </attributetableconfig>
       <conditionalstyles>
@@ -865,16 +865,16 @@
       <previewExpression></previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer autoRefreshTime="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" geometry="Line" styleCategories="AllStyleCategories" simplifyAlgorithm="0" labelsEnabled="0" readOnly="0" refreshOnNotifyEnabled="0" simplifyDrawingHints="1" maxScale="0" simplifyLocal="1" simplifyDrawingTol="1" autoRefreshEnabled="0" simplifyMaxScale="1" minScale="100000000" type="vector" wkbType="LineString">
+    <maplayer type="vector" simplifyMaxScale="1" styleCategories="AllStyleCategories" simplifyDrawingTol="1" simplifyAlgorithm="0" minScale="100000000" refreshOnNotifyEnabled="0" wkbType="LineString" maxScale="0" simplifyLocal="1" readOnly="0" autoRefreshEnabled="0" refreshOnNotifyMessage="" hasScaleBasedVisibilityFlag="0" autoRefreshTime="0" geometry="Line" simplifyDrawingHints="1" labelsEnabled="0">
       <extent>
-        <xmin>16.10612270000000024</xmin>
-        <ymin>78.15719459999999685</ymin>
+        <xmin>14.2191834742329668</xmin>
+        <ymin>77.54577734510127129</ymin>
         <xmax>16.10914680000000132</xmax>
         <ymax>78.15754599999999641</ymax>
       </extent>
       <wgs84extent>
-        <xmin>16.10612270000000024</xmin>
-        <ymin>78.15719459999999685</ymin>
+        <xmin>14.2191834742329668</xmin>
+        <ymin>77.54577734510127129</ymin>
         <xmax>16.10914680000000132</xmax>
         <ymax>78.15754599999999641</ymax>
       </wgs84extent>
@@ -937,7 +937,7 @@
         <Searchable>1</Searchable>
         <Private>0</Private>
       </flags>
-      <temporal endField="" fixedDuration="0" startField="" durationField="" startExpression="" enabled="0" durationUnit="min" accumulate="0" mode="0" endExpression="">
+      <temporal startField="" accumulate="0" mode="0" durationField="" fixedDuration="0" endField="" enabled="0" startExpression="" endExpression="" durationUnit="min">
         <fixedRange>
           <start></start>
           <end></end>
@@ -945,7 +945,7 @@
       </temporal>
       <renderer-v2 symbollevels="0" forceraster="0" enableorderby="0" type="singleSymbol">
         <symbols>
-          <symbol clip_to_extent="1" name="0" force_rhr="0" type="line" alpha="1">
+          <symbol clip_to_extent="1" name="0" type="line" alpha="1" force_rhr="0">
             <data_defined_properties>
               <Option type="Map">
                 <Option value="" name="name" type="QString"/>
@@ -953,7 +953,7 @@
                 <Option value="collection" name="type" type="QString"/>
               </Option>
             </data_defined_properties>
-            <layer pass="0" enabled="1" locked="0" class="SimpleLine">
+            <layer pass="0" locked="0" enabled="1" class="SimpleLine">
               <Option type="Map">
                 <Option value="0" name="align_dash_pattern" type="QString"/>
                 <Option value="square" name="capstyle" type="QString"/>
@@ -1054,26 +1054,26 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="Name" index="0"/>
-        <alias name="" field="Year" index="1"/>
+        <alias name="" index="0" field="Name"/>
+        <alias name="" index="1" field="Year"/>
       </aliases>
       <defaults>
-        <default expression="" applyOnUpdate="0" field="Name"/>
-        <default expression="" applyOnUpdate="0" field="Year"/>
+        <default applyOnUpdate="0" expression="" field="Name"/>
+        <default applyOnUpdate="0" expression="" field="Year"/>
       </defaults>
       <constraints>
-        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="Name"/>
-        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="Year"/>
+        <constraint notnull_strength="0" exp_strength="0" unique_strength="0" field="Name" constraints="0"/>
+        <constraint notnull_strength="0" exp_strength="0" unique_strength="0" field="Year" constraints="0"/>
       </constraints>
       <constraintExpressions>
-        <constraint desc="" exp="" field="Name"/>
-        <constraint desc="" exp="" field="Year"/>
+        <constraint exp="" desc="" field="Name"/>
+        <constraint exp="" desc="" field="Year"/>
       </constraintExpressions>
       <expressionfields/>
       <attributeactions>
-        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+        <defaultAction value="{00000000-0000-0000-0000-000000000000}" key="Canvas"/>
       </attributeactions>
-      <attributetableconfig actionWidgetStyle="dropDown" sortOrder="0" sortExpression="">
+      <attributetableconfig sortExpression="" actionWidgetStyle="dropDown" sortOrder="0">
         <columns/>
       </attributetableconfig>
       <conditionalstyles>
@@ -1177,7 +1177,7 @@
   <Bookmarks/>
   <ProjectViewSettings UseProjectScales="0">
     <Scales/>
-    <DefaultViewExtent ymin="8561938.33105978555977345" xmin="431113.25495084514841437" xmax="587909.70755451777949929" ymax="8641810.01722082681953907">
+    <DefaultViewExtent ymax="8690505.39458622597157955" xmin="544712.46507624455261976" xmax="603511.13480355788487941" ymin="8660553.51227535866200924">
       <spatialrefsys>
         <wkt>PROJCRS["WGS 84 / UTM zone 33N",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["UTM zone 33N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",15,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["Between 12°E and 18°E, northern hemisphere between equator and 84°N, onshore and offshore. Austria. Bosnia and Herzegovina. Cameroon. Central African Republic. Chad. Congo. Croatia. Czechia. Democratic Republic of the Congo (Zaire). Gabon. Germany. Hungary. Italy. Libya. Malta. Niger. Nigeria. Norway. Poland. San Marino. Slovakia. Slovenia. Svalbard. Sweden. Vatican City State."],BBOX[0,12,84,18]],ID["EPSG",32633]]</wkt>
         <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
@@ -1191,7 +1191,7 @@
       </spatialrefsys>
     </DefaultViewExtent>
   </ProjectViewSettings>
-  <ProjectTimeSettings frameRate="1" timeStepUnit="h" cumulativeTemporalRange="0" timeStep="1"/>
+  <ProjectTimeSettings timeStep="1" frameRate="1" cumulativeTemporalRange="0" timeStepUnit="h"/>
   <ProjectDisplaySettings>
     <BearingFormat id="bearing">
       <Option type="Map">
